@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activity1/Activity1.iml" filepath="$PROJECT_DIR$/Activity1/Activity1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidJsonTut/AndroidJsonTut.iml" filepath="$PROJECT_DIR$/AndroidJsonTut/AndroidJsonTut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FAB/FAB.iml" filepath="$PROJECT_DIR$/FAB/FAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentExample/FragmentExample.iml" filepath="$PROJECT_DIR$/FragmentExample/FragmentExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Navigation Drawer Demo/Navigation Drawer Demo.iml" filepath="$PROJECT_DIR$/Navigation Drawer Demo/Navigation Drawer Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

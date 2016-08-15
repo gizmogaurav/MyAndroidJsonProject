@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gizmogauravgmail.myapplication.MenuFragment">
+
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Fragment1"
+        android:id="@+id/fragment1"
+        android:layout_weight="1" />
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Fragment2"
+        android:id="@+id/fragment2"
+        android:layout_weight="1" />
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Fragment3"
+        android:id="@+id/fragment3"
+        android:layout_weight="1" />
+</LinearLayout>
